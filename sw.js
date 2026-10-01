@@ -1,4 +1,4 @@
-const CACHE_NAME = 'leitoria-v2.45';
+const CACHE_NAME = 'leitoria-v2.46';
 const APP_SHELL = [
   './',
   './index.html',
