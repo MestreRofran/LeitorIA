@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "LeitorIA",
+  "short_name": "LeitorIA",
+  "description": "Leitor de textos com voz local e voz natural.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111318",
+  "theme_color": "#111318",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./leitoria.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
